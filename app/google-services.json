@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "548589531280",
+    "firebase_url": "https://amelan-d524d-default-rtdb.firebaseio.com",
+    "project_id": "amelan-d524d",
+    "storage_bucket": "amelan-d524d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548589531280:android:d9adf0e860667f7563a815",
+        "android_client_info": {
+          "package_name": "com.karina.tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548589531280-9auaa93ta9jp3qkfp24hhpfff2bgu1un.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karina.tracking",
+            "certificate_hash": "3c62f35b0acddd9ab5c3fe3e06e0c9b267539a4d"
+          }
+        },
+        {
+          "client_id": "548589531280-9qvbsdmauiicorchkuq46jfhoc52hvjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-0iqF-67MO1r-e1-AJ1tD5S9eE3rg-xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548589531280-9qvbsdmauiicorchkuq46jfhoc52hvjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548589531280:android:285ea8580dc8dafc63a815",
+        "android_client_info": {
+          "package_name": "com.linda.lindakotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548589531280-uuahbmd75j2bkgu3acp2vl5tnqb8ifai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.linda.lindakotlin",
+            "certificate_hash": "3c62f35b0acddd9ab5c3fe3e06e0c9b267539a4d"
+          }
+        },
+        {
+          "client_id": "548589531280-9qvbsdmauiicorchkuq46jfhoc52hvjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-0iqF-67MO1r-e1-AJ1tD5S9eE3rg-xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548589531280-9qvbsdmauiicorchkuq46jfhoc52hvjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548589531280:android:63c8bed3e0f73dce63a815",
+        "android_client_info": {
+          "package_name": "sastra.panji.dhimas.ambulans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548589531280-llqamulj9gr6usarhoe53g3ibbsc6gjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sastra.panji.dhimas.ambulans",
+            "certificate_hash": "3c62f35b0acddd9ab5c3fe3e06e0c9b267539a4d"
+          }
+        },
+        {
+          "client_id": "548589531280-9qvbsdmauiicorchkuq46jfhoc52hvjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-0iqF-67MO1r-e1-AJ1tD5S9eE3rg-xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548589531280-9qvbsdmauiicorchkuq46jfhoc52hvjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
