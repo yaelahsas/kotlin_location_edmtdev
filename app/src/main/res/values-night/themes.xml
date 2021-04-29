@@ -1,3 +1,12 @@
+<!--
+  ~ /**
+  ~  * Created by Dhimas Panji Sastra on 4/30/21 2:11 AM
+  ~  * Copyright (c) $year . All rights reserved.
+  ~  * Last modified 4/30/21 2:10 AM
+  ~  * Made With ❤ for U
+  ~  */
+  -->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Theme.KarinaTracking" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
